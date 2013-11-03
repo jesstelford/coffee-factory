@@ -1,6 +1,6 @@
 {
   "name": "coffee-factory",
-  "version": "0.0.0-dev",
+  "version": "0.1.0",
   "description": "Javascript class Factory generator implemented in Coffeescript.",
   "homepage": "https://github.com/jesstelford/coffee-factory",
   "keywords": [

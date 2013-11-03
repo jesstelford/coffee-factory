@@ -1,0 +1,5 @@
+project-name-*.tgz
+test/fixtures
+dist
+*.swp
+node_modules

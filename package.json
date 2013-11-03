@@ -1,0 +1,41 @@
+{
+  "name": "coffee-factory",
+  "version": "0.0.0-dev",
+  "description": "Javascript class Factory generator implemented in Coffeescript.",
+  "homepage": "https://github.com/jesstelford/coffee-factory",
+  "keywords": [
+    "Factory",
+    "Class",
+    "Coffeescript"
+  ],
+  "author": {
+    "name": "Jess Telford",
+    "email": "jess@jes.st",
+    "url": "http://jes.st"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jesstelford/coffee-factory"
+  },
+  "bugs": "https://github.com/jesstelford/coffee-factory/issues",
+  "main": "lib/coffee-factory.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "coffee-script-redux": "2.0.0-beta7",
+    "mocha": "~1.12.1",
+    "semver": "~2.1.0"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "licenses": [
+    {
+      "type": "FreeBSD",
+      "url": "https://github.com/jesstelford/coffee-factory/blob/master/LICENSE"
+    }
+  ]
+}

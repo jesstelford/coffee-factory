@@ -1,0 +1,6 @@
+coffee-factory-*.tgz
+.gitignore
+dist
+src
+test
+Makefile

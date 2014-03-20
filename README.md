@@ -105,3 +105,9 @@ StaffUser = new Factory User, 10, true
 ceo = StaffUser.get()
 console.log ceo.isStaff # Output: true
 ```
+
+## Donations
+
+I made this in my spare time, free for the community. If you would like to say
+thanks, buy me a beer by tipping some Dogecoin:
+[DJLZccHAcz19ikSV1D5jY3WdFPU7Nqjmfk](dogecoin://DJLZccHAcz19ikSV1D5jY3WdFPU7Nqjmfk?label=Thanks%20for%20coffee-factory!)

@@ -108,6 +108,6 @@ console.log ceo.isStaff # Output: true
 
 ## Donations
 
-I made this in my spare time, free for the community. If you would like to say
-thanks, buy me a beer by tipping some Dogecoin:
-[DJLZccHAcz19ikSV1D5jY3WdFPU7Nqjmfk](dogecoin://DJLZccHAcz19ikSV1D5jY3WdFPU7Nqjmfk?label=Thanks%20for%20coffee-factory!)
+Like what I've created? *So do I!* I develop this project in my spare time, free for the community.
+
+If you'd like to say thanks, buy me a beer by **tipping with Dogecoin**: *DJLZccHAcz19ikSV1D5jY3WdFPU7Nqjmfk*
